@@ -1,11 +1,11 @@
-### **-Hi there!-**
-Nice to meet you, I'm **K0-M1** an IT student 💻.
+### **Hi there!**
+_Nice to meet you, I'm **K0-M1** an IT student 💻._
 <br>
-I'm currently on my second year of high school 🏫.
+_I'm currently on my second year of high school 🏫._
 <br>
-Hope you found something of interesting in my GitHub 🤖.
+_Hope you found something of interesting in my GitHub 🤖._
 <br>
-Fell free to contact me 👀.
+_Fell free to contact me 👀._
 <br>
 
 > My 2023 Goals:
