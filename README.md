@@ -11,7 +11,6 @@ Fell free to contact me 👀.
 
 > Currently known language:
 
-| Languages: |
 | ------------- | ------------- |
 | Python  | Javascript  |
 | C++  | Golang  |
