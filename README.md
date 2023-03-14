@@ -7,7 +7,8 @@ I'm **K0-M1** an IT student 💻.
 - []
 - []
 
-> Currently known language
+> Currently known language:
+
 | Language:  | Second Header |
 | ------------- | ------------- |
 | Python  | Content Cell  |
