@@ -5,12 +5,11 @@ Hope you found something of interesting in my GitHub 🤖.
 Fell free to contact me 👀.
 
 > My 2023 Goals:
-- [x] Learn Golang
-- []
-- []
+- [x] Learn Golang.
+- [] Create a Personal Website.
+- [] Create some intersting projects.
 
-> Currently known language:
-
+> Currently known languages:
 | Programming languages | Inerent Frameworks |
 | :---         |     :---:      |
 | Python   | Django     |
