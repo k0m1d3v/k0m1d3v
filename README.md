@@ -11,7 +11,7 @@ Fell free to contact me 👀.
 
 > Currently known language:
 
-| Language:  | Second Header |
+| Languages: |
 | ------------- | ------------- |
-| Python  | Content Cell  |
-| C++  | Content Cell  |
+| Python  | Javascript  |
+| C++  | Golang  |
