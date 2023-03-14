@@ -11,6 +11,11 @@ Fell free to contact me 👀.
 
 > Currently known language:
 
-| ------------- | ------------- |
-| Python  | Javascript  |
-| C++  | Golang  |
+| Programming languages | Inerent Frameworks |
+| :---         |     :---:      |
+| Python   | Django     |
+| Lua     | none       |
+| Javascript | React.js |
+| Java | none |
+| Golang | none |
+| C++ | none |
