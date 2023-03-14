@@ -8,12 +8,6 @@
 ***_Fell free to contact me 👀._***
 <br>
 
-
-> My 2023 Goals:
-- [x] Learn Golang.
-- [ ] Create a Personal Website.
-- [ ] Create some intersting projects.
-
 > Currently known languages:
 
 | Programming languages | Inerent Frameworks |
@@ -24,3 +18,8 @@
 | Java | none |
 | Golang | none |
 | C++ | none |
+
+> My 2023's Goals:
+- [x] Learn Golang.
+- [ ] Create a Personal Website.
+- [ ] Create some intersting projects.
