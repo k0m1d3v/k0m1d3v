@@ -12,12 +12,12 @@
 
 | Programming languages | Inerent Frameworks |
 | :---         |     :---:      |
-| Python   | Django     |
-| Lua     | none       |
-| Javascript | React.js |
-| Java | none |
-| Golang | none |
-| C++ | none |
+| Python 70%  | Django     |
+| Lua   40%  | none       |
+| Javascript 60% | React.js |
+| Java 50% | none |
+| Golang 90% | none |
+| C++ 60% | none |
 
 > My 2023's Goals:
 - [x] Learn Golang.
