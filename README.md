@@ -10,7 +10,7 @@
 
 > Currently known languages:
 
-| Programming languages | Inerent Frameworks |
+| Programming languages | Inerent known Frameworks |
 | :---         |     :---:      |
 | Python 70%  | Django     |
 | Lua   40%  | none       |
