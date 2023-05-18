@@ -23,5 +23,4 @@
 - [x] Learn Golang.
 - [ ] Create a Personal Website.
 - [ ] Create some intersting projects.
-- [ ] Create an AI
-- [ ] Learn C#
+- [ ] Finish to learn C++
