@@ -10,14 +10,14 @@
 
 > Currently known languages:
 
-| Programming languages | Inerent known Frameworks |
-| :---         |     :---:      |
-| Python 70%  | Django     |
-| Lua   40%  | none       |
-| Javascript 60% | React.js |
-| Java 50% | none |
-| Golang 100% | none |
-| C++ 60% | none |
+| Programming languages | Inerent known Frameworks | Percentage of knowledge |
+| :---  |  :---:  | ---: |
+| Python | Django | 70% |
+| Lua   | none   | 40% |
+| Javascript | React.js | 60% |
+| Java | none | 50% |
+| Golang | none | 100% |
+| C++ | none | 60% |
 
 > Other skills:
 
