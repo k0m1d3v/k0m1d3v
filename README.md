@@ -36,5 +36,7 @@
 
 <br>
 > Contacts:
+<br>
 - Discord: K0-M1#7758
+<br>
 - Telegram: @kk0m1
