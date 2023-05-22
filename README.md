@@ -19,6 +19,15 @@
 | Golang 100% | none |
 | C++ 60% | none |
 
+> Other skills:
+
+| Skill | Percentage of knowledge |
+| :---  | :---:|
+| Html  | 75% |
+| Css   | 70% |
+| Blender | 70% |
+| Arduino | 80% |
+
 > My 2023's Goals:
 - [x] Learn Golang.
 - [ ] Create a Personal Website.
