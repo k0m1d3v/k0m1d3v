@@ -34,6 +34,7 @@
 - [ ] Create some intersting projects.
 - [ ] Finish to learn C++
 
+<br>
 > Contacts:
 - Discord: K0-M1#7758
 - Telegram: @kk0m1
