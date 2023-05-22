@@ -33,3 +33,7 @@
 - [ ] Create a Personal Website.
 - [ ] Create some intersting projects.
 - [ ] Finish to learn C++
+
+> Contacts:
+- Discord: K0-M1#7758
+- Telegram: @kk0m1
