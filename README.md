@@ -16,7 +16,7 @@
 | Lua   40%  | none       |
 | Javascript 60% | React.js |
 | Java 50% | none |
-| Golang 90% | none |
+| Golang 100% | none |
 | C++ 60% | none |
 
 > My 2023's Goals:
