@@ -1,5 +1,5 @@
 ### **Hi there!**
-***_Nice to meet you, I'm **K0-M1** an IT student 💻._***
+***_Nice to meet you, I'm **K0-M1** an IT student 💻 based in italy 🇮🇹._***
 <br>
 ***_I'm currently on my second year of high school 🏫._***
 <br>
