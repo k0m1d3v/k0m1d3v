@@ -27,6 +27,7 @@
 | Css   | 70% |
 | Blender | 70% |
 | Arduino | 80% |
+| MongoDB | 60% |
 
 > My 2023's Goals:
 - [x] Learn Golang.
