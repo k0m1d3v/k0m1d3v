@@ -34,6 +34,8 @@
 - [ ] Create a Personal Website.
 - [ ] Create some intersting projects.
 - [ ] Finish to learn C++
+- [ ] Learn Java
+- [ ] Start a career as a Spigot Developer
 
 <br>
 > Contacts:
