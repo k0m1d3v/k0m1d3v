@@ -13,7 +13,7 @@
 | Programming languages | Inerent known Frameworks | Percentage of knowledge |
 | :---  |  :---:  | ---: |
 | Python | Django | 70% |
-| Lua   | none   | 40% |
+| Lua   | none   | 10% |
 | Javascript | React.js | 60% |
 | Java | none | 50% |
 | Golang | none | 100% |
