@@ -32,6 +32,7 @@
 > My 2023's Goals:
 - [x] Learn Golang.
 - [x] Create a Website
+- [ ] Follow the CS50 by Harvard
 - [ ] Create some intersting projects.
 - [ ] Finish to learn C++
 - [ ] Learn Java
