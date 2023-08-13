@@ -29,15 +29,6 @@
 | Arduino | 80% |
 | MongoDB | 60% |
 
-> My 2023's Goals:
-- [x] Learn Golang.
-- [x] Create a Website
-- [ ] Follow the CS50 by Harvard
-- [ ] Create some intersting projects.
-- [ ] Finish to learn C++
-- [ ] Learn Java
-- [ ] Start a career as a Spigot Developer
-
 <br>
 > Contacts:
 - Telegram: @kk0m1
