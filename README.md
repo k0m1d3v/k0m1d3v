@@ -41,7 +41,7 @@ Hope you'll find something of intersting in my Github.
     <td>CSS</td>
     <td>Yes</td>
     <td>
-      <a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7">CodeAccademy</a>
+      <a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/9a5bb1fc45b4281af1fffec93b0aaf05">CodeAccademy</a>
          | 
       <a href="https://www.credly.com/badges/bf48be14-d27d-464a-a88b-504de3114bc0/public_url">HackersGen</a></td>
   </tr>
