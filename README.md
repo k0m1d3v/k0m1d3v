@@ -54,7 +54,9 @@ Hope you'll find something of intersting in my Github.
 
 ### Additional skills:
 - <a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/28ccb695c353465a8785a036ad32d3b9">Intro to Generative AI</a>
+
 <br>
+
 ### Contacts:
 <ul>  
   <li>Telegram: @kk0m1</li>
