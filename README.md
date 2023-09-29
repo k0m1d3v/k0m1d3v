@@ -4,7 +4,7 @@
   
 Nice to meet you, I'm **Mirko**, also known as **K0-M1**, I'm an Informatic Technologies student.
 <br>
-Hope you'll find something of intersting in my Github.
+Hope you'll find something intersting in my Github.
 </div>
 
 ### **Here's some of my certifications:**
