@@ -50,6 +50,11 @@ Hope you'll find something intersting in my Github.
     <td>Yes</td>
     <td><a href="https://www.credly.com/badges/fd45eb97-4a24-425b-90f7-6a756b7fe4ca/public_url">HackersGen</a></td>
   </tr>
+  <tr>
+    <td>Python</td>
+    <td>Not yet</td>
+    <td></td>
+  </tr>
 </table>
 
 ### Additional skills:
