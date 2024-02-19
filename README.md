@@ -52,8 +52,8 @@ Hope you'll find something intersting in my Github.
   </tr>
   <tr>
     <td>Python</td>
-    <td>Not yet</td>
-    <td></td>
+    <td>Yes</td>
+    <td><a href="https://www.credly.com/badges/131a76e1-22eb-4b5f-840a-e904575349aa">HackersGen</a></td>
   </tr>
 </table>
 
