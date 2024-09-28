@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Nice to meet you, I'm **Mirko**, also known as **K0-M1**, I'm an Information Technologies student.
+Nice to meet you, I'm **Mirko**, also known as **K0-M1** or **P4n1c** (in the CTF field), I'm an Information technology student.
 <br>
 Hope you'll find something intersting in my Github.
 </div>
