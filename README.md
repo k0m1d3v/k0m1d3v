@@ -21,17 +21,14 @@ Hope you'll find something intersting in my Github.
 <table align="center">
   <tr>
     <th>Skill</th>
-    <th>Certified</th>
     <th>Where</th>
   </tr>
   <tr>
     <td>Javascript</td>
-    <td>Yes</td>
     <td><a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/705dcb15de0da4dd9d9fc4f3274b430e">CodeAccademy</a> | <a href="https://www.credly.com/badges/30a875fd-55a9-4673-ac33-577f70b76546/public_url">HackersGen</a></td>
   </tr>
   <tr>
     <td>HTML</td>
-    <td>Yes</td>
     <td>
       <a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7">CodeAccademy</a>
          | 
@@ -39,7 +36,6 @@ Hope you'll find something intersting in my Github.
   </tr>
   <tr>
     <td>CSS</td>
-    <td>Yes</td>
     <td>
       <a href="https://www.codecademy.com/profiles/k0m1d3v/certificates/9a5bb1fc45b4281af1fffec93b0aaf05">CodeAccademy</a>
          | 
@@ -47,12 +43,10 @@ Hope you'll find something intersting in my Github.
   </tr>
   <tr>
     <td>GoLang</td>
-    <td>Yes</td>
     <td><a href="https://www.credly.com/badges/fd45eb97-4a24-425b-90f7-6a756b7fe4ca/public_url">HackersGen</a></td>
   </tr>
   <tr>
     <td>Python</td>
-    <td>Yes</td>
     <td><a href="https://www.credly.com/badges/131a76e1-22eb-4b5f-840a-e904575349aa">HackersGen</a></td>
   </tr>
 </table>
