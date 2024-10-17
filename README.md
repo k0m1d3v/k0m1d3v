@@ -58,6 +58,6 @@ Hope you'll find something intersting in my Github.
 
 ### Contacts:
 <ul>  
-  <li>Telegram: @kk0m1</li>
+  <li>Website: https://k0m1d3v.github.io/C.L.I.P/</li>
   <li>Linkedin: <strong><i>Cooming Soon</i></strong></li>
 </ul>
