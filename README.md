@@ -18,7 +18,7 @@ Hope you'll find something intersting in my Github.
 </div>
 
 <!--START_SECTION:waka-->
-
+### Stats:
 <!--END_SECTION:waka-->
 
 ### Contacts:
